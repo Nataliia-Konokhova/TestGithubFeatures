@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+This is new txt file. I wanna change it.
+=======
 I discard all the changes ahaha.
+>>>>>>> master
